@@ -1,5 +1,5 @@
 # 👋 Hi, I’m a Frontend Developer
-8 years in Computer Science, +4 years in Web Development.
+8 years in Computer Science, 5 years in Web Development.
 
 -------------------------------
 ## 🟢 TECH STACK:
