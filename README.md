@@ -1,4 +1,4 @@
-# <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F143693044347740767%2F&psig=AOvVaw0bG1u0rEf6SmtssjjKI2jI&ust=1651042673684000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCQs7-TsfcCFQAAAAAdAAAAABAD" width='40' height='40' /> Hi, I’m a Frontend Developer
+# <img src="https://i.pinimg.com/originals/81/b2/54/81b254228668007668992a536ae980fd.gif" width='40' height='40' /> Hi, I’m a Frontend Developer
 8 years in Computer Science, 5 years in Web Development.
 
 -------------------------------
