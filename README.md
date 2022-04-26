@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='20' height='20' /> Hi, I’m a Frontend Developer
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width='40' height='40' /> Hi, I’m a Frontend Developer
 8 years in Computer Science, 5 years in Web Development.
 
 -------------------------------
