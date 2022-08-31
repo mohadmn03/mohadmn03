@@ -1,5 +1,5 @@
 # <img src="https://i.pinimg.com/originals/26/8d/8d/268d8d79e2cc82a0f9776b7769a0a3d5.gif" width='50' height='50' /> Hi, I’m a Frontend Developer
-8 years in Computer Science, 5 years in Web Development.
+✉️  contact me : business: moha@web3pros.dev / Personal: mohammeddemmane@gmail.com
 
 -------------------------------
 ## 🟢 TECH STACK:
