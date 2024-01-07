@@ -3,8 +3,10 @@
 ✉️ contact me : <div>business: moha@web3pros.dev Personal: mohammeddemmane@gmail.com</div>
 -------------------------------
 ## 🟢 SKILLS:
-- Frontend Development
 <div>
+    <div>
+- Frontend Development
+        
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width='61' title='HTML5' />
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width='60' title='CSS3'  />
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" width='60' title='JavaScript'/>
@@ -16,11 +18,11 @@
     <img src="https://camo.githubusercontent.com/039edd4ecf252268c0a567616cb591d91236c9f4bef09623b5622057c5402526/68747470733a2f2f6a61636f62646d6e2e6d652f69636f6e732f6d75692e737667" width='60' title='Material UI'   />
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" width="60" title="Redux"> 
     </div>
-    
-- Web Design 
     <div>
+- Web Design
         <img src="https://camo.githubusercontent.com/a6d842798ba2b25317302d9c109738c26438680e88536ddd8314a91daacb1d4e/68747470733a2f2f6a61636f62646d6e2e6d652f69636f6e732f6669676d612e737667" width='61' title='FIGMA' />
         <img src="https://camo.githubusercontent.com/3cbb717dd241e6c9a5cc7c092dd2ed19e7b3f2892c072acd634775a0bce90a6f/68747470733a2f2f6a61636f62646d6e2e6d652f69636f6e732f61646f62655f78642e737667" width='61' title='ADOBE XD' />
+    </div>
     </div>
 
 -------------------------------
