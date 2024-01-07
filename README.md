@@ -1,4 +1,4 @@
-# <h2>Hi, I’m Moha, <span style="color: red">Frontend</span> & Mobile App Developer <a href="web3pros.dev">@Web3 Pros</a> 🦊 || React | React Native | Typescript | Firebase | TailwindCSS | Material UI | Redux</h2>
+# <h2>Hi, I’m Moha, <span style="color: 'red'">Frontend</span> & Mobile App Developer <a href="web3pros.dev">@Web3 Pros</a> 🦊 || React | React Native | Typescript | Firebase | TailwindCSS | Material UI | Redux</h2>
 -------------------------------
 ✉️ contact me : <div>business: moha@web3pros.dev Personal: mohammeddemmane@gmail.com</div>
 -------------------------------
