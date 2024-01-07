@@ -3,12 +3,7 @@
 ✉️ contact me : <div>business: moha@web3pros.dev Personal: mohammeddemmane@gmail.com</div>
 -------------------------------
 ## 🟢 SKILLS:
-<table>
-    <tr>
-    <td>
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width='61' title='HTML5' />
-    </td>
-    </tr>
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width='61' title='HTML5' />
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" width='60' title='CSS3'  />
 
