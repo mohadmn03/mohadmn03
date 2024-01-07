@@ -16,6 +16,7 @@
     <img src="https://camo.githubusercontent.com/039edd4ecf252268c0a567616cb591d91236c9f4bef09623b5622057c5402526/68747470733a2f2f6a61636f62646d6e2e6d652f69636f6e732f6d75692e737667" width='60' title='Material UI'   />
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" width="60" title="Redux"> 
     </div>
+    
 - Web Design 
     <div>
         <img src="https://camo.githubusercontent.com/a6d842798ba2b25317302d9c109738c26438680e88536ddd8314a91daacb1d4e/68747470733a2f2f6a61636f62646d6e2e6d652f69636f6e732f6669676d612e737667" width='61' title='FIGMA' />
