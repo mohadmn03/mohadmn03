@@ -3,7 +3,7 @@
 ✉️ contact me : <div>business: moha@web3pros.dev Personal: mohammeddemmane@gmail.com</div>
 -------------------------------
 ## 🟢 SKILLS:
-<div>
+<div style='display: flex'>
 <div>
 - Frontend Development     
     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" width='61' title='HTML5' />
