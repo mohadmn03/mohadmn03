@@ -11,9 +11,9 @@
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="60" title="ReactJS">
     <img src="https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-redux-512.png" width="60" title="Redux">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" width='60'  title='Sass' />
-    <img src="https://camo.githubusercontent.com/80d9ac377b6dd0c688d55145e4a03e28f2b1079e10f69189fc5887724c22c83a/68747470733a2f2f68696768742e696f2f5f6e7578742f696d672f7461696c77696e642e333535383833382e706e67" width='60' title='Tailwind Css'   />
-    <img src="https://camo.githubusercontent.com/4b9bebf884546cd4759c9ba13324fe468129f8cdc0e6ffd7291f0f70da996c19/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6d6174657269616c2d75692e706e67" width='60' title='Material UI'   />
-    <img src="https://camo.githubusercontent.com/4c30f8365aea5f4f7b38fa9ecf7319aa3daaeb91196c35e65c65cf3ce147a336/68747470733a2f2f75706c6f6164732e676574706f702e6f72672f77702d636f6e74656e742f75706c6f6164732f323031392f30372f6772617068716c2e706e67" width="60" title="Redux"> 
+    <img src="https://camo.githubusercontent.com/b8962cf8b3e32bdc59553255070c9161671908152fcdbc9049dd1e9adf8e3ea0/68747470733a2f2f6a61636f62646d6e2e6d652f69636f6e732f7461696c77696e646373732e737667" width='60' title='Tailwind Css'   />
+    <img src="https://camo.githubusercontent.com/039edd4ecf252268c0a567616cb591d91236c9f4bef09623b5622057c5402526/68747470733a2f2f6a61636f62646d6e2e6d652f69636f6e732f6d75692e737667" width='60' title='Material UI'   />
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" width="60" title="Redux"> 
     </div>
 
 -------------------------------
