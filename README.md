@@ -21,7 +21,7 @@
 
 - <h2>Other Languages</h2>  
     <img src="https://camo.githubusercontent.com/6e34048a7231468205dbacb628726649025b40e8d0d4999e3be9785817ac0703/68747470733a2f2f6a61636f62646d6e2e6d652f69636f6e732f632e737667" width='61' title='C' />
-
+    <img src="https://camo.githubusercontent.com/0262c4ade252104138ad18399b3ad53f6f63942a6f2622f0ae2c5173e6894e41/68747470733a2f2f6a61636f62646d6e2e6d652f69636f6e732f6370702e737667" width='61' title='C++' />
 
 -------------------------------
 
