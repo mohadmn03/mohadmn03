@@ -18,6 +18,6 @@ Passionate about clean code, stunning UI/UX, and leveraging modern tools to crea
 
 ## 🤝 Let's Connect
 
-* <img src="https://cableriedaumesnilblog.com/cuivre-une-demande-mondiale-qui-tend-a-croitre-fortement/linkedin-icon-logo-png-transparent"/> (https://linkedin.com/in/mohadmn03) – Find me here for professional inquiries.
+* <img src="[https://cableriedaumesnilblog.com/cuivre-une-demande-mondiale-qui-tend-a-croitre-fortement/linkedin-icon-logo-png-transparent](https://cableriedaumesnilblog.com/wp-content/uploads/2022/10/linkedin-icon-logo-png-transparent.png)"/> (https://linkedin.com/in/mohadmn03) – Find me here for professional inquiries.
 * [**X (Twitter)**](https://x.com/mohadmn03) – Follow me for tech insights and updates.
 * [**Email**](mailto:mohammeddemmane@gmail.com) – Send me a direct message!
