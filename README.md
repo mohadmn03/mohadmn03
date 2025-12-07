@@ -18,6 +18,6 @@ Passionate about clean code, stunning UI/UX, and leveraging modern tools to crea
 
 ## 🤝 Let's Connect
 
-* [![LinkedIn](https://cableriedaumesnilblog.com/wp-content/uploads/2022/10/linkedin-icon-logo-png-transparent.png)](https://linkedin.com/in/mohadmn03) – Find me here for professional inquiries.
-* [**X (Twitter)**](https://x.com/mohadmn03) – Follow me for tech insights and updates.
-* [**Email**](mailto:mohammeddemmane@gmail.com) – Send me a direct message!
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohadmn03) – Find me here for professional inquiries.
+* [![X-Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohadmn03) – Follow me for tech insights and updates.
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammeddemmane@gmail.com) – Send me a direct message!
